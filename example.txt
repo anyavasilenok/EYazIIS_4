@@ -1,0 +1,19 @@
+Hello! I'm a bot that can talk to you about books. (If our conversation reaches a dead end, it means that we are not on the same path sorry)
+(user): Yo 
+(bot): Hello! How can I assist you?
+(user): what is your favorite book? 
+(bot): My two favorites are 'We' by Evgeny Zamyatin and 'Gone with the Wind' by Margaret Mitchell. 'We' provides a glimpse into the future and see what life might look like in a society where individual freedom and individuality are suppressed for the greater good. I like 'Gone with the Wind' a lot because it's a great historical novel that describes the lives of people during the American Civil War. The book leaves an unforgettable impression and makes you think about life and values.
+(user): can you recommend me something to read? 
+(bot): What genre of books do you like?
+(user): Utopia 
+(bot): Utopia! I also like to read books about utopian worlds because they give me the opportunity to imagine myself as a hero who helps create an ideal world. Do you want me to recommend the 5 best books in this genre?
+(user): yes 
+(bot): I am pleased to provide you with a list of the top five books in the utopian genre:
+1. Brave New World by Aldous Huxley is a classic book that tells the story of life in an ideal society where people live without disease or conflict but at a high price.
+2. '1984' by George Orwell is a novel that describes a totalitarian world where the government controls all aspects of people's lives. The book warns us against what can happen if the government becomes too powerful.
+3. 'Opium for the People' by Eugene Zamiatin is a book that describes the life of people in a single state, where every inhabitant has his own number, and the government controls all aspects of their lives.
+4. Plato's 'State' is an ancient book that describes an ideal society based on justice and reason. The book is the basis for many modern utopias.
+5. 'Return from the Future' by Robert Heinlein is a book that tells about a future society where human rights and freedoms are recognized as more important than any other values. This book is one of the most famous and popular in the genre.
+(user): Thanks, bye! 
+(bot): Goodbye! Have a nice day.
+
